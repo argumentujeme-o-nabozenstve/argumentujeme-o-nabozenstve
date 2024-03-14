@@ -4,4 +4,4 @@
 
 [Kapitola 1](Kapitola1.md): Viera nie je popretie rozumu
 
-[Kapitola 2](Kapitola1.md): Prekonanie scientizmu
+[Kapitola 2](Kapitola2.md): Prekonanie scientizmu
