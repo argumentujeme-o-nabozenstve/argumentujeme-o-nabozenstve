@@ -17,7 +17,7 @@ Zjavný úspech tohto prístupu viedol mnohých k záveru, že poznanie a
 vedecké poznanie sú jednoducho zhodné, a že teda existuje binárna
 možnosť medzi vedou a nezmyslom. Väčšinový názor medzi kultivovanou
 elitou na Západe je, že vedecká revolúcia sedemnásteho a osemnásteho
-storočia bola míľnikom medzi osvietenou modernou od zaostalou
+storočia bola míľnikom medzi osvietenou modernou a zaostalou
 pred-modernou, kde vládla náboženská povera. Vedecký sylogizmus
 implicitne akceptovaný armádami mladých znie asi takto: jediná legitímna
 forma poznania je vedecká; náboženské tvrdenia nie sú prezentované ako
@@ -117,7 +117,7 @@ totiž Dobro samotné – symbolizované ohromnou krásou slnka.
 
 Je zrejmé, že vysvetlenie tohto procesu by ďaleko presahovalo rámec
 tejto knihy a viedlo do plnej zložitosti Platónovej filozofie. Mohol by
-som však naznačiť platónsky prístupu pomocou jednoduchého príkladu. Keď
+som však naznačiť platónsky prístup pomocou jednoduchého príkladu. Keď
 človek pochopí matematickú pravdu, napríklad že 2+3=5, vo veľmi reálnom
 zmysle vstúpi do iného sveta. Ako už bolo spomenuté, všetko zo zmyslovej
 skúsenosti je pominuteľné, a preto sú naše znalosti o tejto sfére
