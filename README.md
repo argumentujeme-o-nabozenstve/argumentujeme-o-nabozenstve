@@ -9,3 +9,4 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 * [Kapitola 1](Kapitola1.md): Viera nie je popretie rozumu
 * [Kapitola 2](Kapitola2.md): Prekonanie scientizmu
 * [Kapitola 3](Kapitola3.md): Buďme netolerantní voči tolerancii
+* [Kapitola 4](Kapitola4.md): Vyhnime sa voluntarizmu
