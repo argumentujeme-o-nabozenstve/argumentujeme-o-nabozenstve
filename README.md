@@ -12,3 +12,7 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 * [Kapitola 4](Kapitola4.md): Vyhnime sa voluntarizmu
 * [Kapitola 5](Kapitola5.md): Snažme sa pochopiť pozíciu svojho oponenta
 * [Kapitola 6](Kapitola6.md): Nasledujme príklad Tomáša Akvinského
+
+**Druhá časť**: Náboženstvo a otváranie mysle
+
+* [Kapitola 7](Kapitola7.md): Argument pre existenciu Boha
