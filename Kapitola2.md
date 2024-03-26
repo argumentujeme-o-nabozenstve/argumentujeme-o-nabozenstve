@@ -54,7 +54,7 @@ racionálna intuícia týkajúca sa epistemologického rádu. V poriadku, ale
 čo nemôžete spraviť prostredníctvom filozofického tvrdenia, je vylúčiť
 ostatné filozofické tvrdenia z kategórie zmysluplnosti! Logický
 pozitivizmus a jeho súčasný príbuzný scientizmus si režú konár, na
-ktorom sedia; sú chytení do vlastnej pasce.<sup>[^1]</sup>
+ktorom sedia; sú chytení do vlastnej pasce. [^1]
 
 Druhým zásadným problémom tohto tvrdenia je, že odporuje prakticky
 všeobecnému konsenzu, že skutočne existujú aj iné ako vedecké cesty k
@@ -63,7 +63,7 @@ dráma, poézia, maliarstvo a mystika sú nielen povznášajúce a zábavné,
 ale aj nositeľmi pravdy? Hamlet neposkytuje skutočný pohľad na ľudskú
 psychológiu a motiváciu? Danteho Božská komédia nesprostredkuje žiadne
 pravdy o politike, umení, hriechu alebo náboženskej túžbe? Pustá
-zem<sup>[^2]</sup> nám nehovorí nič intelektuálne podstatné o ľudskom
+zem [^2] nám nehovorí nič intelektuálne podstatné o ľudskom
 srdci? Platónove dialógy nevrhajú skutočné svetlo na etiku,
 spravodlivosť a dobrý život? Človek by musel byť extrémne predpojatý,
 aby si to myslel.
@@ -71,8 +71,8 @@ aby si to myslel.
 Chcel by som chvíľu zostať pri príklade Platóna. Človek, ktorý v zásade
 založil vedný odbor filozofie na Západe, pochopil, rovnako ako mnohí iní
 mudrci a mystici z Východu i Západu, omamnú kvalitu zmyslovej
-skúsenosťou. To, čo môžeme vidieť, dotknúť sa, ochutnať, počuť a priamo
-zažiť, je tu tak bezprostredne a nepopierateľne, že nás môže úplne
+skúsenosti. To, čo môžeme vidieť, chytiť, ochutnať, počuť a priamo
+zažiť je tu tak bezprostredne a nepopierateľne, že nás môže úplne
 dostať pod svoje kúzlo. Pozor, Platón si nemyslel, že zmyslový svet je
 nereálny. Ale tušil, že existujú dimenzie reality, ktoré sú väčšie,
 bohatšie a trvalejšie. A uvedomil si, že na to, aby človek získal
@@ -124,8 +124,8 @@ skúsenosti je pominuteľné, a preto sú naše znalosti o tejto sfére
 mimoriadne obmedzené, neisté a časovo podmienené. Je to naozaj ako
 sledovať tiene mihajúce sa na stene. Ale dva a tri sa rovnajú piatim
 kedykoľvek, kdekoľvek a v akomkoľvek možnom svete. Vidieť dve veci
-spojené s tromi vecami tak, aby vytvorili konglomerát piatich, je niečo,
-čo by dokázalo každé zviera; ale pochopiť princíp, že dva a tri je päť,
+spojené s tromi vecami tak, aby vytvorili konglomerát piatich je niečo,
+čo by dokázalo každé zviera; ale pochopiť princíp, že dva a tri je päť
 znamená vstúpiť do kvalitatívne vyššej sféry existencie a myslenia.
 Bežnosť tejto skúsenosti, ktorú môže mať každý žiak prvého stupňa, by
 nás nemala zaslepiť pred jej nesmiernym významom. Je to ako vyjsť z
@@ -157,14 +157,14 @@ jednou z brán do mystiky a náboženstva. Hoci to myslel redukujúcim a
 odmietavým spôsobom, potvrdil by som jej pravdivosť v platónskom zmysle:
 pochopenie matematickej pravdy je prvým krokom z čistej zmyslovosti a
 smerom k správne transcendentnému. Súčasný filozof Charles Taylor hovorí
-o „uzatvorenom ja“<sup>[^3]</sup> ako o jednom zo znakov našej
+o „tlmenom ja“ [^3] ako o jednom zo znakov našej
 sekulárnej, post-náboženskej kultúry. Myslí tým uzavretosť voči
 akémukoľvek kontaktu s transcendentnom. Scientizmus je oficiálna
-filozofia uzatvoreného ja. Prerazenie dier do tejto bariéry a vpustenie
+filozofia tlmeného ja. Prerazenie dier do tejto bariéry a vpustenie
 svetla je predpríprava na skutočnú argumentáciu o náboženstve.
 
-[^1]:  hoisted on their own petard
+[^1]: hoisted on their own petard
 
-[^2]:  The Waste Land
+[^2]: The Waste Land
 
-[^3]:  buffered self
+[^3]: buffered self
