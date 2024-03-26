@@ -16,3 +16,4 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 **Druhá časť**: Náboženstvo a otváranie mysle
 
 * [Kapitola 7](Kapitola7.md): Argument pre existenciu Boha
+* [Kapitola 8](Kapitola8.md): Eliáš a Baalovi kňazi
