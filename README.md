@@ -17,3 +17,5 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 
 * [Kapitola 7](Kapitola7.md): Argument pre existenciu Boha
 * [Kapitola 8](Kapitola8.md): Eliáš a Baalovi kňazi
+* [Kapitola 9](Kapitola9.md): Horiaci ker
+
