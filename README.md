@@ -23,3 +23,4 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 * [Kapitola 8](kapitola8.md): Eliáš a Baalovi kňazi
 * [Kapitola 9](kapitola9.md): Horiaci ker
 
+Ak niečo nesedí, prosím [oprav to](https://github.com/argumentujeme-o-nabozenstve/argumentujeme-o-nabozenstve) alebo [napíš](https://github.com/argumentujeme-o-nabozenstve/argumentujeme-o-nabozenstve/issues/new) v čom je problém.
