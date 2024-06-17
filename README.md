@@ -6,16 +6,16 @@ Všetci diskutujeme o náboženstve. Tu je tajomstvo, ako to robiť dobre.
 
 **Prvá časť**: Ako dosiahnuť náboženskú argumentáciu
 
-* [Kapitola 1](../Kapitola1.md): Viera nie je popretie rozumu
-* [Kapitola 2](Kapitola2.md): Prekonanie scientizmu
-* [Kapitola 3](Kapitola3.md): Buďme netolerantní voči tolerancii
-* [Kapitola 4](Kapitola4.md): Vyhnime sa voluntarizmu
-* [Kapitola 5](Kapitola5.md): Snažme sa pochopiť pozíciu svojho oponenta
-* [Kapitola 6](Kapitola6.md): Nasledujme príklad Tomáša Akvinského
+* [Kapitola 1](/Kapitola1.md): Viera nie je popretie rozumu
+* [Kapitola 2](/Kapitola2.md): Prekonanie scientizmu
+* [Kapitola 3](/Kapitola3.md): Buďme netolerantní voči tolerancii
+* [Kapitola 4](/Kapitola4.md): Vyhnime sa voluntarizmu
+* [Kapitola 5](/Kapitola5.md): Snažme sa pochopiť pozíciu svojho oponenta
+* [Kapitola 6](/Kapitola6.md): Nasledujme príklad Tomáša Akvinského
 
 **Druhá časť**: Náboženstvo a otváranie mysle
 
-* [Kapitola 7](Kapitola7.md): Argument pre existenciu Boha
-* [Kapitola 8](Kapitola8.md): Eliáš a Baalovi kňazi
-* [Kapitola 9](Kapitola9.md): Horiaci ker
+* [Kapitola 7](/Kapitola7.md): Argument pre existenciu Boha
+* [Kapitola 8](/Kapitola8.md): Eliáš a Baalovi kňazi
+* [Kapitola 9](/Kapitola9.md): Horiaci ker
 
