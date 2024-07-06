@@ -1,6 +1,6 @@
 <img align="left" width="90" height="90" src="https://github.com/argumentujeme-o-nabozenstve/argumentujeme-o-nabozenstve/assets/1047259/40427eab-f3b6-4613-bd5d-e2cbeac458bb">
 
-(Pokus o) slovenský preklad knihy Roberta Barrona [Arguing Religion](https://www.amazon.com/Arguing-Religion-Bishop-Speaks-Facebook/dp/1943243379).
+Slovenský preklad knihy Roberta Barrona [Arguing Religion](https://www.amazon.com/Arguing-Religion-Bishop-Speaks-Facebook/dp/1943243379).
 
 # Argumentujeme o náboženstve
 
