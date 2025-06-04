@@ -168,17 +168,16 @@ nelíši od bežných aktov súhlasu a to ani v tých najjednoduchších
 veciach. A to je dôvod, prečo môže v jednej zo svojich kázní o viere a
 rozume povedať, že „viera je rozmýšľanie náboženskej mysle“.
 
-Vo veľkom jeruzalemskom chráme boli priestory vyhradené len pre
-židovských veriacich, ale bola tam aj časť nazývaná „nádvorie pohanov“.
-Tam sa mohli zhromažďovať neveriaci a zakúsiť svätosť miesta. Plne si
-uvedomujem, že dnes je strašne veľa ľudí, ktorí odmietli náboženstvo,
-ktorí sú nahnevaní na náboženské inštitúcie alebo ktorí si osvojili
-kritiku viery od ateistov. Určite nečakám, že títo ľudia prídu priamo do
-chrámu s dychtivosťou a nadšením. Ale rozmýšľam, či by som ich mohol
-pozvať na nádvorie pohanov – teda do arény, ktorú som charakterizoval
-ako prirodzenú teológiu alebo filozofickú úvahu o Božích veciach.
-Nežiadam ich, aby nechali svoje mozgy pri dverách. Naopak, chcem, aby
-kládli akékoľvek a všetky relevantné otázky. Ako spoločný základ by som
-navrhol iba epistemické imperatívy, ktoré sformuloval jezuitský filozof
-20. storočia Bernard Lonergan: buďme pozorní, inteligentní, rozumní a
-zodpovední. Verte mi, budeme sa mať o čom rozprávať.
+Vo veľkom jeruzalemskom chráme boli priestory vyhradené len pre židovských
+veriacich, ale bola tam aj časť nazývaná „nádvorie pohanov“.  Tam sa mohli
+zhromažďovať neveriaci a zakúsiť svätosť miesta. Plne si uvedomujem, že dnes je
+strašne veľa ľudí, ktorí odmietli náboženstvo, ktorí sú nahnevaní na náboženské
+inštitúcie alebo ktorí si osvojili kritiku viery od ateistov. Určite nečakám, že
+títo ľudia prídu priamo do chrámu s dychtivosťou a nadšením. Ale rozmýšľam, či
+by som ich mohol pozvať na nádvorie pohanov – teda do arény, ktorú som
+charakterizoval ako prirodzenú teológiu alebo filozofickú úvahu o Božích
+veciach.  Nežiadam ich, aby nechali svoje mozgy pri dverách. Naopak, chcem, aby
+kládli akékoľvek a všetky relevantné otázky. Ako spoločný základ by som navrhol
+iba epistemické imperatívy, ktoré sformuloval jezuitský filozof 20. storočia
+Bernard Lonergan: buďme pozorní, inteligentní, rozumní a zodpovední. Verte mi,
+budeme sa mať o čom rozprávať.
